@@ -1,0 +1,183 @@
+计算机视觉之统计形状模型——Active Shape Model_Vic时代的博客-CSDN博客
+https://blog.csdn.net/VictoriaW/article/details/70053790
+blog.csdn.net
+
+
+Transformer代码完全解读！
+https://mp.weixin.qq.com/s/MfV2QU-C3bj1tQuEllWchg
+mp.weixin.qq.com
+
+
+7个实用的Python自动化代码
+https://mp.weixin.qq.com/s/DTd5SZx2wLR1q7fpJ23iIg
+mp.weixin.qq.com
+
+
+深度：震惊世间的惊人代码（附完整代码）
+https://mp.weixin.qq.com/s/nXEzcQMmmuIi75nTbSSQAA
+mp.weixin.qq.com
+
+
+训练CV模型常用的Tips & Tricks-极市开发者社区
+https://cvmart.net/community/detail/7187
+cvmart.net
+
+
+使用reduce操作的金字塔形式（先升后降）连续数组 - 数据结构 - srcmini
+https://www.srcmini.com/70513.html
+www.srcmini.com
+
+
+CFANZ-编程社区
+https://www.cfanz.cn/mobile/
+www.cfanz.cn
+
+
+【云享专刊】开源遇上华为云，OCP架构变身“云原生框架”，免费领取上云开发部署全流程指南！-云社区-华为云
+https://bbs.huaweicloud.com/blogs/396429
+bbs.huaweicloud.com
+
+
+富文本防xss注入以及分级策略-天翼云开发者社区 - 天翼云
+https://www.ctyun.cn/developer/article/406404426686533
+www.ctyun.cn
+
+
+Spring源码解读(第一弹)-擒贼先擒王，抓住了bean，你就抓住了Spring的尾巴！（springmvc） | 半码博客
+https://www.bmabk.com/index.php/post/133345.html
+www.bmabk.com
+
+
+小程序启动美学之骨架屏能力
+https://forum.microapp.bytedance.com/mini-app/posts/641951e02fdd55c7ccbb6769
+forum.microapp.bytedance.com
+
+
+STL无序容器使用自定义类型作为Key - 黑客说
+https://hackertalk.net/posts/430030127552073728
+hackertalk.net
+
+
+OpenMV快速入门指南：硬件版本概述及HelloWorld实例-物联沃-IOTWORD物联网
+https://www.iotword.com/10262.html
+www.iotword.com
+
+
+分享MacBook下laravel多版本docker开发环境配置方案 | Laravel China 社区
+https://learnku.com/articles/76469
+learnku.com
+
+
+分布式计算技术（上）：经典计算框架MapReduce、Spark 解析
+http://m.blog.itpub.net/69994106/viewspace-2944635/
+m.blog.itpub.net
+
+
+Redis缓存高可用集群 - HelloWorld开发者社区
+https://www.helloworld.net/p/1685562180
+www.helloworld.net
+
+
+Part. 3 - 光之齐亚 的博客 - 洛谷博客
+https://www.luogu.com.cn/blog/hello----world/part-3-post
+www.luogu.com.cn
+
+
+Markdown 公式数学常用符号 - 简书
+https://www.jianshu.com/p/83f18a70378b
+www.jianshu.com
+
+
+辰星凌的博客QAQ
+https://www.cnblogs.com/Xing-Ling/p/11990652.html
+www.cnblogs.com
+
+
+超详细 LaTex数学公式_ViatorSun的博客-CSDN博客_latex公式
+https://blog.csdn.net/ViatorSun/article/details/82826664
+blog.csdn.net
+
+
+Fermat–Lagrange Theorem/四平方和定理 - 知乎
+https://zhuanlan.zhihu.com/p/363582462
+zhuanlan.zhihu.com
+
+
+中国剩余定理学习笔记 - 腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/2119679
+cloud.tencent.com
+
+
+高等数学——详解洛必达法则 - 掘金
+https://juejin.cn/post/6844904074207297550
+juejin.cn
+
+
+一文详解｜如何写出优雅的代码-阿里云开发者社区
+https://developer.aliyun.com/article/1117703?spm=a2c6h.12883283.index.69.5f1f4307BMER0F
+developer.aliyun.com
+
+
+proof of Cauchy integral formula
+https://planetmath.org/proofofcauchyintegralformula
+planetmath.org
+
+
+PieCloudDB Database 云上商业智能的最佳实践 - OpenPie的个人空间 - OSCHINA - 中文开源技术交流社区
+https://my.oschina.net/u/5944765/blog/7225262
+my.oschina.net
+
+
+linux - 用eBPF/XDP来替代LVS - QueenKing - SegmentFault 思否
+https://segmentfault.com/a/1190000043627305
+segmentfault.com
+
+
+vue3中ref和reactive的区别 -文章频道 - ChatGPT 每日一问 - 公开学习圈
+https://www.writebug.com/article/d9060db8-cf64-11ed-a68e-0242ac1a0010
+www.writebug.com
+
+
+AT_abc294_c 题解 - qingweiliao 的博客 - 洛谷博客
+https://www.luogu.com.cn/blog/qingweiliao666/solution-at-abc294-c
+www.luogu.com.cn
+
+
+编程利器：ChatGPT！10个使用场景助力软件开发-51CTO.COM
+https://www.51cto.com/article/750779.html
+www.51cto.com
+
+
+Java到底能干什么？实事求是地说一下
+http://c.biancheng.net/view/9619.html
+c.biancheng.net
+
+
+听说，手写一个操作系统是每个Coder的梦想？_慕课手记
+https://www.imooc.com/article/334440
+www.imooc.com
+
+
+如何保证 Java 应用安全？_文化 & 方法_林子熠_InfoQ精选文章
+https://www.infoq.cn/article/SaSzIFWsdTYEiGzADCq1
+www.infoq.cn
+
+
+木韵盈怀，指间的心流律动：千元级木质 Alice 键盘 AMX60 简评 - 少数派
+https://sspai.com/post/79173
+sspai.com
+
+
+Sugar BI教你怎么做数据可视化 - 拓扑图，让节点连接信息一目了然-百度开发者中心
+https://developer.baidu.com/article/detail.html?id=299035
+developer.baidu.com
+
+
+移动应用失败的7大原因 - 后端 - srcmini
+https://www.srcmini.com/61301.html
+www.srcmini.com
+
+
+SpringBoot之定时任务与cron表达式|江海计划-支付宝开发者社区
+https://open.alipay.com/portal/forum/post/119101013
+open.alipay.com

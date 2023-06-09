@@ -1,0 +1,84 @@
+body {
+    background-color: #222;
+    color: #eee;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: Georgia, "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+    font-size: 18px;
+    padding-left: 5%;
+    padding-right: 5%;
+    -webkit-font-smoothing: antialiased;
+    /* 禁止选中 */
+    -webkit-user-select: none;
+    /* Safari */
+    -ms-user-select: none;
+    /* IE 10+ and Edge */
+    user-select: none;
+    /* Standard syntax */
+    /* 禁止选中 */
+}
+
+.button {
+    height: 30px;
+    font-family: Georgia, '楷体';
+    font-size: 20px;
+    margin-right: auto;
+}
+
+.e0,
+.e1,
+.e2 {
+    font-size: 20px;
+    font-family: '微软雅黑';
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    resize: none;
+    flex: left;
+    width: 90%;
+}
+
+.e2 {
+    border: 0px;
+    outline: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.d {
+    width: 90%;
+}
+
+/* 设置select标签的样式 */
+select {
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-size: 18px;
+    background-color: #f0f0f0;
+}
+
+/* 设置option标签的样式 */
+option {
+    font-size: 18px;
+}
+
+/* 设置select标签在获取焦点时的样式 */
+select:focus {
+    outline: none;
+}
+
+/* 设置select标签在鼠标悬停时的样式 */
+select:hover {
+    background-color: #e0e0e0;
+}
+
+/* 设置option标签在鼠标悬停时的样式 */
+option:hover {
+    background-color: #00a1d6;
+}

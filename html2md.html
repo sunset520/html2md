@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1.0,user-scale=1.0">
+    <title>HTML 转 MD</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="shortcut icon" href="../packages/custom/favicon.ico" />
+    <link rel="bookmark" href="../packages/custom/favicon.ico" />
+</head>
+
+<body>
+    <h1>HTML 转 MD</h1>
+    <hr />
+    <select name="" id="">
+        <option value="default">默认</option>
+        <option value="zhihu">知乎</option>
+        <option value="csdn">CSDN</option>
+        <option value="aliyun">阿里云开发者</option>
+        <option value="tencent">腾讯开发者</option>
+        <option value="juejin">稀土掘金</option>
+        <option value="cnblogs">博客园</option>
+        <option value="jianshu">简书</option>
+        <option value="planetmath">Planet Math</option>
+        <option value="oschina">开源中国</option>
+        <option value="segmentfault">思否</option>
+        <option value="writebug">Write Bug*</option>
+        <option value="luogu">洛谷</option>
+        <option value="cxymm">程序员秘密</option>
+        <option value="srcmini">src.mini</option>
+        <option value="51cto">51CTO</option>
+        <option value="cbiancheng">C语言中文网</option>
+        <option value="infoq">InfoQ*</option>
+        <option value="imooc">慕课网手记*</option>
+        <option value="sspai">少数派</option>
+        <option value="leetcode">力扣*</option>
+        <option value="baidu">百度开发者</option>
+        <option value="learnku">LearnKu</option>
+        <option value="helloworld">helloworld</option>
+        <option value="itpub">ITPUB</option>
+        <option value="iotword">IOTWORD</option>
+    </select>
+
+    <p>⚠ 注意：有 * 标记的网站需要使用开发者工具审查元素获取网页源码。</p>
+    <hr />
+    <div class="c" style="width: 100%">
+        <textarea class="e1" rows="10" id="input" placeholder="输入 html 代码"></textarea>
+        <br />
+        <br />
+        <div class="d">
+            <input type="button" id="clean" class="button" value="清空" />
+            <input type="button" id="start" class="button" value="转换" />
+            <input type="button" id="copy" class="copy button" value="复制" data-clipboard-target="#output" />
+        </div>
+        <textarea class="e2" rows="10" id="output" readonly></textarea>
+    </div>
+    <hr />
+    <p>也可以使用在线工具转换：</p>
+    <ul>
+        <li>
+            <p><a href="https://www.ivtool.com/html-to-markdown/" target="_blank">爱屋工具箱</a></p>
+        </li>
+        <li>
+            <p><a href="https://devtool.tech/html-md" target="_blank">HTML/URL To Markdown</a></p>
+        </li>
+        <li>
+            <p><a href="https://www.helloworld.net/html2md" target="_blank">html 转 markdown</a></p>
+        </li>
+        <li>
+            <p><a href="https://products.groupdocs.app/zh/conversion/html-to-md" target="_blank">转换 HTML 自 MD</a></p>
+        </li>
+    </ul>
+    <hr />
+</body>
+
+
+<script src="js/turndown.js"></script>
+<script src="js/turndown-plugin-gfm.js"></script>
+<script src="js/clipboard.min.js"></script>
+<script src="js/turndown-config.js"></script>
+<script src="js/clipboard-config.js"></script>
+<script src="js/clean.js"></script>
+
+</html>
